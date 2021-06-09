@@ -1,0 +1,94 @@
+@media (max-width:1000px) {
+    .movie {
+        width: 50%;
+        margin-bottom: 0;
+    }
+
+    .main h1 {
+        font-size: 32px;
+    }
+
+    .heading h2 {
+        font-size: 20px;
+    }
+    
+    .heading h3 {
+        font-size: 17px;
+    }
+
+    .header-left {
+        margin-left: 10px;
+    }
+
+    .header-right {
+        margin-right: 10px;
+    }
+    .movie {
+        width: 50%;
+    }
+
+}
+
+@media (max-width: 670px) {
+    .main {
+        width: 100%;
+    }
+
+    footer {
+        text-align: center;
+    }
+
+    .btn {
+        width: 100%;
+    }
+
+    .main {
+        text-align: left;
+        padding-top: 80px;
+    }
+
+    .main h1 {
+        font-size: 24px;
+        line-height: 36px;
+    }
+
+    .main p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .header-left img {
+        width: 125px;
+        margin: 10px auto;
+    }
+
+    .header-right {
+        display: none;
+    }
+
+    .menu-icon {
+        display: block !important;
+        font-size: 2rem;
+        margin-right: 1rem;
+    }
+
+    .txt-contents {
+        padding-bottom: 25px;
+    }
+
+    .body .container {
+        margin: 10px auto;
+    }
+    .container .heading {
+        margin: auto 15px;
+    }
+    .movies {
+        margin-bottom: 0;
+    }
+    .movie {
+        width: 100%;
+        margin-bottom: 0;
+    }
+
+
+}
